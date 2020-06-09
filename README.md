@@ -1,4 +1,4 @@
-# MOCK SERVER 快速启动
+# 快速搭建 MOCK SERVER
 运行如下命令初始化工程
 ```
 npm install
